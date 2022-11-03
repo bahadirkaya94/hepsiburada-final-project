@@ -1,0 +1,616 @@
+[INFO ] 2022-11-03 00:40:26.035 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 00:40:30.627 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 00:40:35.529 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 00:40:35.944 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 00:40:36.636 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 00:40:38.632 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 00:40:43.608 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 00:40:43.822 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 00:40:44.011 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 00:40:44.366 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 00:40:59.274 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 00:41:00.014 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 00:41:00.839 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 00:41:05.477 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 00:41:05.520 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:41:10.042 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 00:41:10.789 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 00:41:41.848 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 00:41:47.958 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 00:41:49.581 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 00:41:55.343 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 00:41:55.767 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 00:41:56.652 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 00:41:57.460 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 00:42:01.512 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 00:42:01.543 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:42:05.118 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 00:42:06.108 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 00:42:37.080 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 00:46:49.218 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 00:46:52.699 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 00:46:59.095 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 00:46:59.724 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 00:47:00.303 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 00:47:01.260 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 00:47:05.862 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 00:47:06.119 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 00:47:06.301 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 00:47:06.597 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 00:47:18.074 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 00:47:18.913 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 00:47:19.739 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 00:47:23.979 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 00:47:24.003 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:47:27.226 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 00:47:27.918 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 00:47:32.041 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 00:47:35.524 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:47:36.407 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 00:47:37.689 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 00:47:41.026 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 00:47:42.949 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:47:44.759 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:47:45.252 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 00:47:45.252 [main] Log - Sepetteki Tüm Ürünler Sepetten Çıkartılır
+[INFO ] 2022-11-03 00:47:46.585 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 00:47:52.526 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 00:47:53.960 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 00:47:59.202 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 00:47:59.643 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 00:48:00.779 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 00:48:01.103 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 00:48:04.994 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 00:50:17.602 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 00:50:21.505 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 00:50:27.401 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 00:50:27.817 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 00:50:28.742 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 00:50:29.618 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 00:52:17.720 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 00:52:22.078 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 00:52:27.074 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 00:52:27.606 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 00:52:28.588 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 00:52:29.025 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 00:52:32.632 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 00:52:32.674 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:52:37.313 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 00:52:37.909 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 00:52:41.462 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 00:52:44.497 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:52:45.316 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 00:52:45.767 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 00:52:49.258 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 00:53:50.317 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 00:53:53.838 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 00:53:58.760 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 00:53:59.270 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 00:53:59.825 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 00:54:01.107 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 00:54:05.477 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 00:54:05.676 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 00:54:05.870 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 00:54:06.148 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 00:54:21.102 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 00:54:22.194 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 00:54:23.593 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 00:54:28.356 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 00:54:28.420 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:54:32.929 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 00:54:33.844 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 00:54:38.340 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 00:54:40.639 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 00:54:46.695 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 00:54:48.193 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 00:54:53.574 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 00:54:54.177 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 00:54:54.973 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 00:54:55.441 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 00:54:59.031 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 00:54:59.053 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:55:02.132 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 00:55:03.022 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 00:55:07.282 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 00:55:10.774 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:55:11.554 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 00:55:12.350 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 00:55:16.582 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 00:55:18.428 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:55:20.221 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 00:55:20.880 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 00:55:20.880 [main] Log - Sepetteki Tüm Ürünler Sepetten Çıkartılır
+[INFO ] 2022-11-03 00:55:21.996 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 01:29:14.862 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:29:19.162 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:29:23.268 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:29:23.721 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 01:29:24.361 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:29:25.370 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:29:30.424 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 01:29:30.699 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 01:29:30.929 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:29:31.216 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 01:29:43.326 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:29:44.256 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:29:44.960 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:29:49.732 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 01:29:55.690 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:29:57.308 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:30:02.921 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:30:03.709 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:30:04.471 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:30:05.467 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:30:08.506 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 01:34:16.774 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:34:20.659 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:34:26.101 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:34:26.672 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 01:34:27.287 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:34:28.075 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:34:31.953 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 01:34:32.202 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 01:34:32.363 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:34:32.679 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 01:34:45.506 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:34:45.884 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:34:46.848 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:34:52.068 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 01:34:52.205 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:34:56.116 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 01:34:56.908 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 01:35:01.072 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 01:35:03.578 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 01:35:09.439 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:35:11.218 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:35:17.411 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:35:17.997 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:35:18.729 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:35:19.215 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:35:22.653 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 01:35:22.733 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:35:25.872 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 01:35:26.696 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 01:35:30.696 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 01:35:34.048 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:35:34.876 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 01:35:35.655 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 01:35:38.930 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 01:35:40.366 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:35:41.840 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:35:42.380 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 01:35:42.381 [main] Log - Sepetteki Tüm Ürünler Sepetten Çıkartılır
+[INFO ] 2022-11-03 01:35:43.768 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 01:43:03.349 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:43:13.914 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:43:18.649 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:43:19.294 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 01:43:19.992 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:43:20.776 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:43:24.983 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 01:43:25.244 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 01:43:25.442 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:43:25.746 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 01:43:37.196 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:43:37.610 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:43:38.756 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:44:32.999 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:44:36.146 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:44:40.608 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:44:41.267 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 01:44:41.969 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:44:42.829 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:44:47.377 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 01:44:47.593 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 01:44:47.782 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:44:48.123 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 01:45:00.979 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:45:01.347 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:45:02.289 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:45:33.175 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 01:45:39.316 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:45:41.117 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:45:46.550 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:45:47.084 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:45:47.870 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:45:48.546 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:46:49.974 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:46:53.795 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:47:00.472 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:47:01.226 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 01:47:02.071 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:47:02.957 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:47:07.195 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 01:47:07.418 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 01:47:07.622 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:47:07.911 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 01:47:20.892 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:47:21.432 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:47:22.389 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:47:26.569 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 01:47:32.512 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:47:34.408 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:47:42.671 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:47:44.032 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:47:45.132 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:47:46.797 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:47:52.060 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 01:52:51.782 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:52:54.053 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:53:00.137 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:53:00.540 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 01:53:01.187 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:53:02.023 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:53:05.545 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 01:53:05.670 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 01:53:05.787 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 01:53:06.038 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 01:53:15.883 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:53:16.210 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:53:16.798 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:53:20.622 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 01:53:20.681 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:53:23.700 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 01:53:24.298 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 01:53:28.387 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 01:53:31.083 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:53:31.671 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 01:53:32.187 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 01:53:35.763 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 01:53:37.159 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:53:38.159 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:53:38.412 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 01:53:38.412 [main] Log - Sepetteki Tüm Ürünler Sepetten Çıkartılır
+[INFO ] 2022-11-03 01:53:39.732 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 01:53:45.854 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 01:53:47.128 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 01:53:51.549 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 01:53:52.025 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 01:53:52.507 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 01:53:52.927 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 01:53:55.805 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 01:53:55.878 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:53:58.511 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 01:53:59.179 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 01:54:03.396 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 01:54:05.783 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:54:06.324 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 01:54:06.898 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 01:54:10.943 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 01:54:12.691 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:54:13.664 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 01:54:13.839 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 01:54:13.839 [main] Log - Sepetteki Tüm Ürünler Sepetten Çıkartılır
+[INFO ] 2022-11-03 01:54:14.961 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 17:44:56.060 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 17:45:01.365 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 17:45:07.036 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 17:45:07.635 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 17:45:08.483 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:45:09.537 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:45:14.171 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 17:45:14.443 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 17:45:14.642 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:45:14.941 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 17:45:30.587 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 17:45:31.025 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 17:45:31.793 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 17:46:02.876 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 17:46:08.856 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 17:46:10.518 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 17:46:17.189 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 17:46:17.572 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 17:46:18.323 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 17:46:18.832 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 17:47:31.695 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 17:47:34.555 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 17:47:39.919 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 17:47:40.498 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 17:47:41.232 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:47:42.463 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:47:46.213 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 17:47:46.393 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 17:47:46.566 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:47:46.850 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 17:47:58.566 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 17:47:58.943 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 17:47:59.605 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 17:48:04.397 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 17:48:04.432 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 17:48:35.540 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 17:52:57.636 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 17:53:00.990 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 17:53:05.401 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 17:53:06.014 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 17:53:06.660 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:53:07.631 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:53:11.815 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 17:53:12.018 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 17:53:12.205 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:53:12.503 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 17:53:25.779 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 17:53:26.155 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 17:53:26.840 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 17:53:32.267 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 17:53:38.185 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 17:53:39.722 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 17:53:45.776 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 17:53:46.326 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 17:53:46.945 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 17:53:47.740 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 17:53:51.215 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 17:53:51.266 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 17:54:21.955 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 17:57:31.344 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 17:57:35.458 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 17:57:40.235 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 17:57:40.894 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 17:57:41.714 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:57:42.717 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:57:46.358 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 17:57:46.534 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 17:57:46.703 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 17:57:46.985 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 17:57:58.971 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 17:57:59.629 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 17:58:00.181 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 18:11:08.945 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 18:11:11.684 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 18:11:17.204 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 18:11:17.826 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 18:11:18.844 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 18:11:19.886 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 18:11:24.070 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 18:11:24.253 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 18:11:24.420 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 18:11:24.692 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 18:11:38.098 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 18:11:38.565 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 18:11:39.420 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 18:11:44.274 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 18:11:44.306 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:19:20.571 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 19:19:25.861 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 19:19:31.508 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 19:19:32.184 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 19:19:33.127 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:19:33.955 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:19:39.407 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 19:19:39.637 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 19:19:39.811 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:19:40.147 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 19:19:54.380 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 19:19:54.908 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 19:19:55.346 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 19:20:00.067 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 19:20:00.096 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:20:04.822 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 19:20:05.777 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 19:20:09.834 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 19:20:12.994 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:20:13.718 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 19:20:14.408 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 19:20:18.323 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 19:20:19.392 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:20:20.901 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:20:21.636 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 19:20:22.261 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 19:20:28.469 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 19:20:30.319 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 19:20:37.654 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 19:20:38.000 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 19:20:38.291 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 19:20:38.787 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 19:20:42.770 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 19:20:42.932 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:20:46.234 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 19:20:46.882 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 19:20:51.597 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 19:20:54.044 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:20:54.957 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 19:20:55.779 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 19:20:59.717 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 19:21:01.198 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:21:02.868 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:21:03.411 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 19:21:04.107 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 19:31:29.127 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 19:31:32.221 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 19:31:36.462 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 19:31:36.912 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 19:31:37.681 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:31:39.322 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:31:43.646 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 19:31:43.922 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 19:31:44.117 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:31:44.473 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 19:32:01.128 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 19:32:01.564 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 19:32:02.837 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 19:32:08.842 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 19:32:14.806 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 19:33:16.809 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 19:33:19.708 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 19:33:26.245 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 19:33:26.914 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 19:33:27.757 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:33:29.092 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:33:33.817 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 19:33:34.065 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 19:33:34.259 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:33:34.600 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 19:33:49.862 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 19:33:50.393 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 19:33:50.908 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 19:33:56.878 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 19:33:57.253 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:34:01.890 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 19:34:02.557 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 19:34:07.120 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 19:34:11.743 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:34:12.643 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 19:34:13.169 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 19:34:17.267 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 19:34:18.986 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:34:20.844 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:34:21.246 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 19:34:21.982 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 19:34:27.840 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 19:34:29.559 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 19:44:02.776 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 19:44:06.243 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 19:44:10.731 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 19:44:11.165 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 19:44:12.144 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:44:14.301 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:44:18.260 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 19:44:18.480 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 19:44:18.680 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 19:44:19.027 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 19:44:32.446 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 19:44:32.858 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 19:44:33.525 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 19:44:39.065 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 19:44:39.107 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:44:43.624 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 19:44:44.305 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 19:44:48.396 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 19:44:51.607 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:44:52.524 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 19:44:53.441 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 19:44:57.124 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 19:44:58.543 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:45:00.190 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 19:45:00.543 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 19:45:01.278 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 19:45:07.139 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 19:45:08.649 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 20:03:32.080 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 20:03:35.225 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 20:03:39.659 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 20:03:40.222 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 20:03:40.809 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:03:42.209 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:03:47.758 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 20:03:47.969 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 20:03:48.167 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:03:48.467 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 20:04:19.179 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 20:04:19.562 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 20:04:20.173 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 20:04:28.272 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 20:04:28.370 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:04:33.147 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:04:33.733 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:04:39.402 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 20:04:44.594 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:04:45.724 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:04:46.693 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:04:50.860 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 20:04:52.278 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:04:54.308 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:04:54.944 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 20:04:55.582 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 20:05:01.685 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 20:06:44.358 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 20:06:48.039 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 20:06:52.814 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 20:06:53.370 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 20:06:54.004 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:06:55.988 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:07:00.120 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 20:07:00.338 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 20:07:00.532 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:07:00.824 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 20:07:16.468 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 20:07:17.005 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 20:07:17.678 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 20:07:32.069 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 20:07:32.128 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:07:36.752 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:07:37.640 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:07:42.252 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 20:07:45.825 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:07:46.840 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:07:47.437 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:07:51.601 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 20:07:53.061 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:07:54.966 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:07:55.464 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 20:07:56.144 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 20:08:02.133 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 20:08:03.817 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 20:18:22.676 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 20:18:26.432 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 20:18:31.269 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 20:18:31.911 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 20:18:32.529 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:18:33.618 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:18:37.653 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 20:18:37.862 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 20:18:38.051 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:18:38.346 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 20:18:51.462 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 20:18:51.910 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 20:18:52.578 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 20:19:00.084 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 20:19:00.244 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:19:04.160 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:19:05.308 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:19:10.326 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 20:19:14.633 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:19:15.509 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:19:16.278 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:19:20.918 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 20:19:23.654 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:19:25.473 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:19:25.814 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 20:19:25.814 [main] Log - Sepetteki Tüm Ürünler Sepetten Çıkartılır
+[INFO ] 2022-11-03 20:19:33.246 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 20:19:53.301 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 20:19:58.451 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 20:20:05.779 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 20:20:06.605 [main] Log - Giriş Yap Veya Üye Ol Butonuna Tıklanır
+[INFO ] 2022-11-03 20:20:07.559 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:20:08.903 [main] Log - Facebook İle Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:20:13.644 [main] Log - E-mail Adresi Girilir
+[INFO ] 2022-11-03 20:20:13.860 [main] Log - Şifre Girilir
+[INFO ] 2022-11-03 20:20:14.052 [main] Log - Giriş Yap Butonuna Tıklanır
+[INFO ] 2022-11-03 20:20:14.329 [main] Log - HESABIM Yazısının Gözüktüğü Doğrulanır
+[INFO ] 2022-11-03 20:20:27.208 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 20:20:27.617 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 20:20:28.167 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 20:20:33.560 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 20:20:33.595 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:20:37.727 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:20:38.293 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:20:43.111 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 20:20:47.591 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:20:48.751 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:20:49.409 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:20:53.546 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 20:20:56.119 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:20:57.683 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:20:58.061 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 20:20:58.061 [main] Log - Sepetteki Tüm Ürünler Sepetten Çıkartılır
+[INFO ] 2022-11-03 20:21:06.706 [main] Log - Tests are ending!
+[INFO ] 2022-11-03 20:21:12.800 [main] Log - Tests are starting!
+[INFO ] 2022-11-03 20:21:14.434 [main] Log - Hepsiburada.com'a Gidilir
+[INFO ] 2022-11-03 20:21:19.613 [main] Log - Çerezler Kapatılır
+[INFO ] 2022-11-03 20:21:20.076 [main] Log - Arama Kutucuğuna Aranacak Ürünün İsmi Yazılır
+[INFO ] 2022-11-03 20:21:21.121 [main] Log - Ara Butonuna Tıklanır
+[INFO ] 2022-11-03 20:21:21.974 [main] Log - Çıkan İlk Ürüne Tıklanır
+[INFO ] 2022-11-03 20:21:24.977 [main] Log - Açılan Diğer Sayfaya Geçilir
+[INFO ] 2022-11-03 20:21:25.063 [main] Log - Ürünün Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:21:30.867 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:21:31.872 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:21:35.828 [main] Log - Ürünün Başka Satıcısı Var İse İlkine Tıklanır
+[INFO ] 2022-11-03 20:21:38.768 [main] Log - Ürünün Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:21:39.686 [main] Log - Sepete Ekle Butonunua Tıklanır
+[INFO ] 2022-11-03 20:21:40.259 [main] Log - Açılan Pencere Kapatılır
+[INFO ] 2022-11-03 20:21:44.335 [main] Log - Sepetim Butonuna Tıklanır
+[INFO ] 2022-11-03 20:21:46.091 [main] Log - Sepetteki Ürünlerin Bilgileri İlk Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:21:47.755 [main] Log - Sepetteki Ürünlerin Bilgileri İkinci Satıcı İçin Kayıt Edilir
+[INFO ] 2022-11-03 20:21:48.043 [main] Log - Sepete Eklenen Ürünlerin Doğru Olarak Eklendiği Sepetim Sayfasında Doğrulanır
+[INFO ] 2022-11-03 20:21:48.043 [main] Log - Sepetteki Tüm Ürünler Sepetten Çıkartılır
+[INFO ] 2022-11-03 20:21:49.373 [main] Log - Tests are ending!
