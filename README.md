@@ -25,3 +25,7 @@ This project tests the accuracy of the basket by adding any product from two dif
 - It is designed to take a screenshot of the error if the project does not work correctly during execution.
 - The project is divided into three basic sections as Home Page, Product Search Page and Basket Page.
 
+## Test Video
+
+https://user-images.githubusercontent.com/108271414/199862283-4ef6e0bc-b524-465c-b937-2d52ce9f44e0.mp4
+
